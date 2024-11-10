@@ -34,6 +34,7 @@ DOMAIN,fe.apple-dns.net,reject
 DOMAIN,fe2.apple-dns.net,reject
 DOMAIN,world-gen.g.aaplimg.com,reject
 DOMAIN,time.g.aaplimg.com,reject
+DOMAIN-SUFFIX,icloud.com,reject
 DOMAIN-SUFFIX,itunes.apple.com.edgekey.net,reject
 DOMAIN-SUFFIX,mzstatic.com.edgekey.net,reject
 DOMAIN-SUFFIX,appstoreconnect.apple.com,reject
