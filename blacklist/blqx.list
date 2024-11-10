@@ -138,5 +138,6 @@ DOMAIN-SUFFIX,tether.edge.apple,reject
 DOMAIN-SUFFIX,api-adservices.apple.com,reject
 DOMAIN-SUFFIX,devicecheck.apple.com,reject
 # gomi
+DOMAIN-KEYWORD,analytics,reject
 DOMAIN-KEYWORD,stocks,reject
 DOMAIN-KEYWORD,analytics,reject
