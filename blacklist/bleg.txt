@@ -1,0 +1,44 @@
+domain_set:
+  - ocsp.apple.com
+  - ocsp2.apple.com
+  - valid.apple.com
+  - crl.apple.com
+  - certs.apple.com
+  - appattest.apple.com
+  - vpp.itunes.apple.com
+  - comm-main.ess.apple.com
+  - cormm-cohort.ess.apple.com
+  - icloud.com
+  - me.com
+  - apple.com
+  - fe.apple-dns.net
+  - fe2.apple-dns.net
+  - world-gen.g.aaplimg.com
+  - time.g.aaplimg.com
+  - itunes.apple.com.edgekey.net
+  - api-adservices.apple.com
+  - inappcheck.itunes.apple.com
+  - mask-api.icloud.com
+domain_keyword_set:
+  - pancake
+  - captive
+  - smoot
+  - tether
+domain_suffix_set:
+  - iadsdk.apple.com
+  - cdn-apple.com
+  - ls.apple.com
+  - itunes.apple.com.edgekey.net
+  - mzstatic.com.edgekey.net
+  - appstoreconnect.apple.com
+  - unlinkability.apple.com
+  - appstore.com
+  - dns.apple.com
+  - dns.apple.com.v.aaplimg.com
+  - mask-api.fe.apple-dns.net
+  - mask.apple-dns.net
+  - mask-t.apple-dns.net
+  - mask-h2.icloud.com
+  - mask.icloud.com
+domain_regex_set:
+  - google|gstatic|ytimg|youtube|ggpht
