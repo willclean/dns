@@ -1,0 +1,67 @@
+# blackqx
+# https://raw.githubusercontent.com/willclean/dns/refs/heads/test/blacklist/blqx.list
+# 2025/2/16
+
+# god
+HOST,vpp.itunes.apple.com,reject
+HOST,appattest.apple.com,reject
+HOST,certs.apple.com,reject
+HOST,crl.apple.com,reject
+HOST,valid.apple.com,reject
+HOST,ocsp2.apple.com,reject
+HOST,ocsp.apple.com,reject
+# god
+DOMAIN-SUFFIX,vpp.itunes.apple.com,reject
+DOMAIN-SUFFIX,appattest.apple.com,reject
+DOMAIN-SUFFIX,certs.apple.com,reject
+DOMAIN-SUFFIX,crl.apple.com,reject
+DOMAIN-SUFFIX,valid.apple.com,reject
+DOMAIN-SUFFIX,ocsp2.apple.com,reject
+DOMAIN-SUFFIX,ocsp.apple.com,reject
+DOMAIN-SUFFIX,comm-cohort.ess.apple.com,reject
+DOMAIN-SUFFIX,comm-main.ess.apple.com,reject
+DOMAIN-SUFFIX,comm-cohort.ess-apple.com.akadns.net,reject
+DOMAIN-SUFFIX,comm-main.ess-apple.com.akadns.net,reject
+# dome
+DOMAIN,icloud.com,reject
+DOMAIN,me.com,reject
+DOMAIN,apple.com,reject
+DOMAIN,itunes.com,reject
+DOMAIN,apple-dns.net,reject
+DOMAIN,fe.apple-dns.net,reject
+DOMAIN,fe2.apple-dns.net,reject
+DOMAIN,world-gen.g.aaplimg.com,reject
+DOMAIN,time.g.aaplimg.com,reject
+DOMAIN-SUFFIX,icloud.com,reject
+DOMAIN-SUFFIX,itunes.apple.com.edgekey.net,reject
+DOMAIN-SUFFIX,mzstatic.com.edgekey.net,reject
+DOMAIN-SUFFIX,appstoreconnect.apple.com,reject
+DOMAIN-SUFFIX,unlinkability.apple.com,reject
+DOMAIN-SUFFIX,appstore.com,reject
+# dnss
+DOMAIN-SUFFIX,dns.apple.com,reject
+DOMAIN-SUFFIX,dns.apple.com.v.aaplimg.com,reject
+DOMAIN-SUFFIX,mask-api.fe.apple-dns.net,reject
+DOMAIN-SUFFIX,mask.apple-dns.net,reject
+DOMAIN-SUFFIX,mask-t.apple-dns.net,reject
+DOMAIN-SUFFIX,mask-api.icloud.com,reject
+DOMAIN-SUFFIX,mask-h2.icloud.com,reject
+DOMAIN-SUFFIX,mask.icloud.com,reject
+# app
+DOMAIN-SUFFIX,pancake.apple.com,reject
+DOMAIN-SUFFIX,captive.apple.com,reject
+DOMAIN-SUFFIX,smoot.apple.com,reject
+DOMAIN-SUFFIX,mesu.apple.com,reject
+DOMAIN-SUFFIX,iadsdk.apple.com,reject
+DOMAIN-SUFFIX,cdn-apple.com,reject
+DOMAIN-SUFFIX,gdmf.apple.com,reject
+DOMAIN-SUFFIX,app-site-association.cdn-apple.com,reject
+DOMAIN-SUFFIX,inappcheck.itunes.apple.com,reject
+DOMAIN-SUFFIX,tether.v.aaplimg.com,reject
+DOMAIN-SUFFIX,tether.edge.apple,reject
+DOMAIN-SUFFIX,api-adservices.apple.com,reject
+DOMAIN-SUFFIX,devicecheck.apple.com,reject
+# gomi
+DOMAIN-KEYWORD,pancake,reject
+DOMAIN-KEYWORD,stocks,reject
+DOMAIN-KEYWORD,analytics,reject
