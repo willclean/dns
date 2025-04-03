@@ -1,0 +1,20 @@
+! Title: iOS must fillter
+! Description: Before change DNS
+! Version: 2025.04.03
+! Homepage: https://github.com/willclean/dns
+! Last modified: 2025-04-03
+!
+||ocsp.apple.com^$important
+||ocsp2.apple.com^$important
+||valid.apple.com^$important
+||crl.apple.com^$important
+||certs.apple.com^$important
+||appattest.apple.com^$important
+||vpp.itunes.apple.com^$important
+||comm-main.ess.apple.com^$important
+||comm-cohort.ess.apple.com^$important
+# domain
+|apple.com^$important
+|itunes.com^$important
+|icloud.com^$important
+|me.com^$important
