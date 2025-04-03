@@ -2,7 +2,7 @@
 ! Description: Before change DNS
 ! Version: 2025.04.03
 ! Homepage: https://github.com/willclean/dns
-! Last modified: 2025-04-03 14:05T14:07
+! Last modified: 2025-04-03T14:00:48.556Z
 !
 ||ocsp.apple.com^$important
 ||ocsp2.apple.com^$important
