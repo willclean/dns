@@ -19,6 +19,7 @@ domain_set:
   - api-adservices.apple.com
   - inappcheck.itunes.apple.com
   - mask-api.icloud.com
+  - ppq.apple.com
 domain_keyword_set:
   - pancake
   - captive
